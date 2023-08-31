@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 ## Estadísticas de GitHub
 
-[![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=Hernandez-Douglas&show_icons=true&theme=radical&count_private=true&hide=prs,issues,contribs&token=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)](https://github.com/Hernandez-Douglas)
+[![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=Hernandez-Douglas&show_icons=true&theme=radical&count_private=true&hide=prs,issues)](https://github.com/Hernandez-Douglas)
 
 ## Lenguajes y tecnologías
 
