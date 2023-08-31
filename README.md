@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# ¡Hola! Soy [Douglas Hernandez]
+# ¡Hola! Soy Douglas Hernandez
 
 ¡Bienvenido a mi perfil de GitHub! Soy un desarrollador de software con más de 4 años de experiencia en la industria. Aquí encontrarás una visión general de mi actividad en GitHub y algunos de los proyectos en los que he trabajado.
 
@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 ## Estadísticas de GitHub
 
-[![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=Hernandez-Douglas&show_icons=true&theme=radical)](https://github.com/tunombre)
+[![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=Hernandez-Douglas&show_icons=true&theme=radical&count_private=true&hide=prs,issues,contribs&token=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)](https://github.com/Hernandez-Douglas)
 
 ## Lenguajes y tecnologías
 
