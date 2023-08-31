@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **Hernandez-Douglas/Hernandez-Douglas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,39 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# ¡Hola! Soy [Douglas Hernandez]
+
+¡Bienvenido a mi perfil de GitHub! Soy un desarrollador de software con más de 4 años de experiencia en la industria. Aquí encontrarás una visión general de mi actividad en GitHub y algunos de los proyectos en los que he trabajado.
+
+## Sobre mí
+
+- 💼 Desarrollador de Software
+- 🌐 Sitio web: [www.douglashernandez.com](https://www.google.com)
+- 📧 Contacto: [douglashernandezduran@gmail.com](mailto:douglashernandezduran@gmail.com)
+
+## Estadísticas de GitHub
+
+[![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=Hernandez-Douglas&show_icons=true&theme=radical)](https://github.com/tunombre)
+
+## Lenguajes y tecnologías
+
+- Python
+- JavaScript
+- Node
+- TypeScript
+- Nest
+- GraphQL
+- React
+- ReactQuery
+- Java
+- HTML/CSS
+
+
+## Contacto
+
+¡No dudes en contactarme si tienes alguna pregunta o si estás interesado en colaborar en proyectos emocionantes!
+
+- LinkedIn: [Douglas Hernandez](https://www.linkedin.com/in/douglas-hernandez-dh/)
+
+¡Gracias por visitar mi perfil!
