@@ -25,20 +25,12 @@ Here are some ideas to get you started:
 
 ## Estadísticas de GitHub
 
-[![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=Hernandez-Douglas&show_icons=true&theme=radical&count_private=true&hide=prs,issues)](https://github.com/Hernandez-Douglas)
+[![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=Hernandez-Douglas&show_icons=true&theme=onedark&count_private=true&hide=prs,issues)](https://github.com/Hernandez-Douglas)
 
 ## Lenguajes y tecnologías
 
-- Python
-- JavaScript
-- Node
-- TypeScript
-- Nest
-- GraphQL
-- React
-- ReactQuery
-- Java
-- HTML/CSS
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hernandez-Douglas&hide_progress=false&compact=true)
+
 
 
 ## Contacto
