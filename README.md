@@ -11,6 +11,11 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+## Estadísticas de GitHub
+
+[![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=Hernandez-Douglas&show_icons=true&theme=onedark&count_private=true&hide=prs,issues)](https://github.com/Hernandez-Douglas)
+
 -->
 
 # ¡Hola! Soy Douglas Hernandez
@@ -23,9 +28,6 @@ Here are some ideas to get you started:
 - 🌐 Sitio web: [www.douglashernandez.com](https://www.google.com)
 - 📧 Contacto: [douglashernandezduran@gmail.com](mailto:douglashernandezduran@gmail.com)
 
-## Estadísticas de GitHub
-
-[![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=Hernandez-Douglas&show_icons=true&theme=onedark&count_private=true&hide=prs,issues)](https://github.com/Hernandez-Douglas)
 
 ## Lenguajes y tecnologías
 
